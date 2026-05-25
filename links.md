@@ -1,17 +1,11 @@
-Search
-Bing[https://www.bing.com]
-Bing.cn[https://cn.bing.com]
-Google[https://www.google.com]
-Baidu[https://www.baidu.com]
-
 Local
 ASUS-Router[http://192.168.50.1]
 iStore[http://192.168.10.1]
 Pve-M920x[http://192.168.50.9]
 Fnos[http://192.168.50.66]
 
-081200.xyz
-openwrt[http://openwrt-m920x.081200.xyz]
+fate.li
+GitLab[https://git.spir.cc]
 
 162.ltd
 Fnos[https://fnos.162.ltd]
@@ -25,9 +19,19 @@ fatum.su
 Fnos[https://fnos.fatum.su]
 Gitea[https://gitea.fatum.su]
 
+081200.xyz
+openwrt[http://openwrt-m920x.081200.xyz]
 
-spir.cc
-GitLab[https://git.spir.cc]
+BR
+
+Search
+Bing[https://www.bing.com]
+Bing.cn[https://cn.bing.com]
+Google[https://www.google.com]
+Baidu[https://www.baidu.com]
+
+Tools
+TUNA[https://mirrors.tuna.tsinghua.edu.cn]
 
 BR
 
@@ -59,9 +63,6 @@ Live
 10188[https://www.huya.com/10188]
 
 BR
-
-Tools
-TUNA[https://mirrors.tuna.tsinghua.edu.cn]
 
 Cloud
 Aliyun[https://www.aliyun.com]
