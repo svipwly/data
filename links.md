@@ -4,8 +4,8 @@ iStore[http://192.168.10.1]
 Pve-M920x[http://192.168.50.9]
 Fnos[http://192.168.50.66]
 
-fate.li
-GitLab[https://git.fate.li]
+fate.ee
+GitLab[https://git.fate.ee]
 
 162.ltd
 Fnos[https://fnos.162.ltd]
