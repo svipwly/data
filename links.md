@@ -71,12 +71,16 @@ RackNerd[https://my.racknerd.com/index.php?rp=/login]
 RN-Panel[https://nerdvm.racknerd.com/login.php]
 
 Domain
-Cloudflare[https://dash.cloudflare.com]
 Spaceship[https://www.spaceship.com]
 Dynadot[https://www.dynadot.com]
-OVHcloud[https://manager.ca.ovhcloud.com]
+Regery[https://www.regery.com]
 SmartApe[https://cp.smartape.net/billmgr?startform=payment]
 HostBill[https://manage.cloudean.com/checkdomain/domain-names]
+OVHcloud[https://manager.ca.ovhcloud.com]
+
+
+DNS
+Cloudflare[https://dash.cloudflare.com]
 He.net[https://dns.he.net]
 Dpdns[https://dash.domain.digitalplat.org/domains]
 Dnshe[https://www.dnshe.com]
