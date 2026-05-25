@@ -5,7 +5,7 @@ Pve-M920x[http://192.168.50.9]
 Fnos[http://192.168.50.66]
 
 fate.li
-GitLab[https://git.spir.cc]
+GitLab[https://git.fate.li]
 
 162.ltd
 Fnos[https://fnos.162.ltd]
