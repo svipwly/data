@@ -7,6 +7,11 @@ Fnos[http://192.168.50.66]
 fate.ee
 GitLab[https://git.fate.ee]
 
+fate.li
+
+fate.pub
+Img[https://img.fate.pub]
+
 162.ltd
 Fnos[https://fnos.162.ltd]
 
@@ -32,6 +37,8 @@ Baidu[https://www.baidu.com]
 
 Tools
 TUNA[https://mirrors.tuna.tsinghua.edu.cn]
+CF-IPs[https://cf.090227.xyz]
+
 
 BR
 
@@ -83,6 +90,7 @@ OVHcloud[https://manager.ca.ovhcloud.com]
 DNS
 Cloudflare[https://dash.cloudflare.com]
 He.net[https://dns.he.net]
+Cloudns[https://www.cloudns.net]
 Dpdns[https://dash.domain.digitalplat.org/domains]
 Dnshe[https://www.dnshe.com]
 
